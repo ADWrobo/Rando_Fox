@@ -1,2 +1,2 @@
 # Rando_Fox
-Simply API query exercise.
+Simple API query exercise.
